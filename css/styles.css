@@ -73,7 +73,7 @@ p {
 #title {
   background-color: #FF4C68;
   color: #fff;
-  position: relative;
+  position: absolute;
   text-align: left;
 }
 
