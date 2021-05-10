@@ -90,7 +90,7 @@ p {
 #features {
   padding: 7% 15%;
   background-color: #fff;
-  position: relative;
+  position: absolute;
 }
 
 .feature-title {
